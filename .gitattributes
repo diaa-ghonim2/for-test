@@ -1,0 +1,4 @@
+__images__/**/*.png filter=lfs diff=lfs merge=lfs -text
+__images__/*.png filter=lfs diff=lfs merge=lfs -text
+__images__/* filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
